@@ -4,7 +4,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "npx remix vite": "build",
+    "npx vite": "build",
     "preview": "vite preview"
   },
   "dependencies": {
